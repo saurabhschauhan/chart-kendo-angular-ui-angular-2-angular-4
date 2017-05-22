@@ -8,9 +8,11 @@ Download this project and run the commands below.
 
 #To Run this app follow the commands.
 
-Step:1-create a free account on telerik (https://www.telerik.com/login/v2/download?ReturnUrl=https%3a%2f%2fwww.telerik.com%2fdownload-trial-file%2fv2%2fkendo-ui#register)
+#Step:1-
+create a free account on telerik (https://www.telerik.com/login/v2/download?ReturnUrl=https%3a%2f%2fwww.telerik.com%2fdownload-trial-file%2fv2%2fkendo-ui#register)
 
-Step:2-follow these instrunction to login (http://www.telerik.com/kendo-angular-ui/components/installation/npm-registry/)
+#Step:2-
+follow these instrunction to login (http://www.telerik.com/kendo-angular-ui/components/installation/npm-registry/)
 
 OR
 
@@ -27,9 +29,11 @@ If the command does not throw any errors, you can now access the Kendo UI NPM pa
 
 (Optional) Attach the npm-debug.log file to support communication if you encounter any issues.
 
-Step:3-$npm install
+#Step:3-
+$npm install
 
-Step:4-$npm start --host 0.0.0.0 --port 4200
+#Step:4-
+$npm start --host 0.0.0.0 --port 4200
 
 #To run on your browser browse.
 
